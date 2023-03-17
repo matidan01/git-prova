@@ -5,6 +5,7 @@ public class palladipelo {
 =======
 
     String metodoACaso(){
+        int j;
         return "patate";
     } 
     
